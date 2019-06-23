@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7ba250-f2eb-478f-9a19-9b61fa4ed26f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInterfaceObjects.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableTypeClass.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Printable.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Printable$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Printable$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Printable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Printable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableTypeClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/scalawithcats_2.12-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/scalawithcats_2.12-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,65 +31,53 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="sbt" value="1" />
-          <entry key="scala" value="16" />
+          <entry key="scala" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Scala" value="16" />
+          <entry key="Scala" value="19" />
           <entry key="sbt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="sbt" value="12" />
-          <entry key="sbtShell" value="82" />
-          <entry key="scala" value="1206" />
+          <entry key="sbtShell" value="83" />
+          <entry key="scala" value="1488" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="1206" />
+          <entry key="Scala" value="1488" />
           <entry key="sbt" value="12" />
-          <entry key="sbtShell" value="82" />
+          <entry key="sbtShell" value="83" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Cat.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="88" selection-start-line="5" selection-start-column="88" selection-end-line="5" selection-end-column="88" />
+            <state relative-caret-position="210">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="e#59#86#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/ShowableInstances.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+            <state relative-caret-position="120">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <folding>
+                <element signature="e#59#72#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,11 +96,13 @@
         <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableLibrary.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Cat.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableTypeClass.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInterfaceObjects.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Printable.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/CatShowable.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/ShowableInstances.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala" />
       </list>
     </option>
   </component>
@@ -209,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561289227367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561290053244" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -272,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561283304991</updated>
-      <workItem from="1561283306205" duration="5512000" />
+      <workItem from="1561283306205" duration="6193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5512000" />
+    <option name="totallyTimeSpent" value="6193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
@@ -291,8 +264,8 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3286517" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" visible="true" weight="0.3286517" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286517" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.3286517" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286517" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -344,24 +317,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Cat.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInterfaceObjects.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
         </state>
       </provider>
     </entry>
@@ -372,17 +331,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="88" selection-start-line="5" selection-start-column="88" selection-end-line="5" selection-end-column="88" />
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Cat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/ShowableInstances.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="e#59#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#59#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
