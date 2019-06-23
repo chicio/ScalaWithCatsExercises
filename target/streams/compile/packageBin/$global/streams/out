@@ -8,6 +8,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/Cat$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/Equality.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Equality.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/Equality$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Equality$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances$.class[0m
@@ -18,6 +22,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Cat.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/EqInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/EqInstances.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/Printable$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Printable$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax$PrintableOps.class[0m
@@ -34,10 +40,14 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/Equality$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Equality$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/EqInstances$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/EqInstances$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/Printable.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary/Printable.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
