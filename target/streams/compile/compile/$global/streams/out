@@ -1,4 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableLibrary.scala:19:19: could not find implicit value for parameter printable: it.chicio.scalawithcats.chapter1.Printable[Int][0m
-[0m[[0m[31merror[0m] [0m[0m  Printable.format(1)[0m
-[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInterfaceObjects.scala:3:8: Companions 'trait Printable' and 'object Printable' must be defined in same file:[0m
+[0m[[0m[31merror[0m] [0m[0m  Found in /Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Printable.scala and /Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInterfaceObjects.scala[0m
+[0m[[0m[31merror[0m] [0m[0mobject Printable {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
