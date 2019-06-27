@@ -47,3 +47,6 @@ exit
 run Equality
 run PrintableLibrary.scala
 run 
+run
+4
+run
