@@ -1,4 +1,4 @@
-package it.chicio.scalawithcats.chapter1.printablelibrary
+package it.chicio.scalawithcats.chapter1
 
 import PrintableInstances._
 import PrintableSyntax._

@@ -1,4 +1,4 @@
-package it.chicio.scalawithcats.chapter1.printablelibrary
+package it.chicio.scalawithcats.chapter1
 
 trait Printable[A] {
   def format(value: A): String

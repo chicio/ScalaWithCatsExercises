@@ -1,4 +1,4 @@
-package it.chicio.scalawithcats.chapter1.printablelibrary
+package it.chicio.scalawithcats.chapter1
 
 object PrintableInstances {
   implicit val printableString: Printable[String] = (value: String) => value

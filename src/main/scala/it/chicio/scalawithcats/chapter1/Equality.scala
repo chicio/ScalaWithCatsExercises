@@ -1,8 +1,8 @@
-package it.chicio.scalawithcats.chapter1.printablelibrary
+package it.chicio.scalawithcats.chapter1
 
-import EqInstances._
 import cats.syntax.eq._
 import cats.instances.option._
+import EqInstances._
 
 object Equality extends App {
   val cat1 = Cat("Garfield",   38, "orange and black")
