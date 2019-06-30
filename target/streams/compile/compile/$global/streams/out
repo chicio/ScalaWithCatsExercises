@@ -1,10 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter2/Set.scala:3:7: Semigroup is already defined as trait Semigroup[0m
-[0m[[0m[31merror[0m] [0m[0mtrait Semigroup[A] {[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter2/Set.scala:6:7: Monoid is already defined as trait Monoid[0m
-[0m[[0m[31merror[0m] [0m[0mtrait Monoid[A] extends Semigroup[A] {[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter2/Set.scala:9:8: Monoid is already defined as object Monoid[0m
-[0m[[0m[31merror[0m] [0m[0mobject Monoid {[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter3/TreeFunctorInstances.scala:22:26: abstract type pattern A is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case Leaf(value: A) =>[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
