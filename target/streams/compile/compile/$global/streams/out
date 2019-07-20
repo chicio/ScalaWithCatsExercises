@@ -1,4 +1,7 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter3/TreeFunctorInstances.scala:22:26: abstract type pattern A is unchecked since it is eliminated by erasure[0m
-[0m[[0m[33mwarn[0m] [0m[0m        case Leaf(value: A) =>[0m
-[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImap.scala:8:23: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both value intCodec in object CodecImapInstances of type => it.chicio.scalawithcats.chapter3.Codec[Int][0m
+[0m[[0m[31merror[0m] [0m[0m and value booleanCodec in object CodecImapInstances of type => it.chicio.scalawithcats.chapter3.Codec[Boolean][0m
+[0m[[0m[31merror[0m] [0m[0m match expected type it.chicio.scalawithcats.chapter3.Codec[A][0m
+[0m[[0m[31merror[0m] [0m[0m  println(Codec.decode("1.2"))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
