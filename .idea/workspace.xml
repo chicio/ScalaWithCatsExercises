@@ -4,28 +4,45 @@
     <list default="true" id="5a7ba250-f2eb-478f-9a19-9b61fa4ed26f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ScalaWithCats-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scalawithcats-compile/.sbt-idea-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$221012bb48dfbf863eca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3f3ef0d22b6bdc601a35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$81ffe8aeab9250df5da2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a976cd236bbdc2a348bf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$cd24b12fe9f61fc0231d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$d8b2a6f8d61f310b5b87$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$d8b2a6f8d61f310b5b87.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/WriterFactorial.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/Monad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/SafeFolding$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/SafeFolding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorial$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorialMain$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorialMain$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorialMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/ScalaWithCats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ScalaWithCats.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scalawithcats-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ScalaWithCats-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scalawithcats-build.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$3f3ef0d22b6bdc601a35$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$221012bb48dfbf863eca.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$cd24b12fe9f61fc0231d$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$3f3ef0d22b6bdc601a35.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$81ffe8aeab9250df5da2$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$81ffe8aeab9250df5da2.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d265d98f3c906c996615$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d265d98f3c906c996615.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d265d98f3c906c996615.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$a976cd236bbdc2a348bf.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d265d98f3c906c996615.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$a976cd236bbdc2a348bf$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$cd24b12fe9f61fc0231d.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$221012bb48dfbf863eca$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$d8b2a6f8d61f310b5b87.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
@@ -196,7 +213,7 @@
       <workItem from="1563879394703" duration="477000" />
       <workItem from="1564037799230" duration="58000" />
       <workItem from="1564307400225" duration="288000" />
-      <workItem from="1564307843809" duration="2008000" />
+      <workItem from="1564307843809" duration="2276000" />
     </task>
     <servers />
   </component>

@@ -8,7 +8,7 @@ import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.{Await, Future}
 import scala.concurrent.duration._
 
-// In the book the author uses the logged instance
+// In the book the author uses a little bit different approach
 object WriterFactorial {
   def slowly[A](body: => A): A = try body finally Thread.sleep(100)
 
