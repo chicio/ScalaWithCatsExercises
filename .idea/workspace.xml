@@ -2,29 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7ba250-f2eb-478f-9a19-9b61fa4ed26f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/Box.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/Codec.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImap.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImapInstances.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/Monad.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/SafeFolding.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/WriterFactorial.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/ScalaWithCats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ScalaWithCats.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scalawithcats-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ScalaWithCats-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d337ddc89190b7569a4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d337ddc89190b7569a4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d337ddc89190b7569a4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$924da896b7276c3c4866$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$924da896b7276c3c4866.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$924da896b7276c3c4866.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca40e83fced658386ab7$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca40e83fced658386ab7.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca40e83fced658386ab7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d2e85f8a69246a991a04$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d2e85f8a69246a991a04.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d2e85f8a69246a991a04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e05d779eaf3f60d7a230$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e05d779eaf3f60d7a230.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e05d779eaf3f60d7a230.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b3820b8c743bdea589d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ad758c56b0e70747bff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0777f41fc60414692bd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d265d98f3c906c996615$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d265d98f3c906c996615.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d265d98f3c906c996615.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc2fafe56d16f5677d58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eb3dba78c738c9b20c40.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scalawithcats-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalawithcats-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scalawithcats-build-compile-internal.xml" afterDir="false" />
@@ -50,19 +52,7 @@
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableInstances.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableInstances.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/PrintableContramap.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/PrintableContramap.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/PrintableInstances$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/PrintableInstances$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Box$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Box$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$$anonfun$printableBox$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$$anonfun$printableBox$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/PrintableContramap$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/PrintableContramap$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/PrintableContramap$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/PrintableContramap$delayedInit$body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalawithcats$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalawithcats$sources/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalawithcats$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalawithcats$sources/0.1/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalawithcats$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalawithcats$sources-compile-internal.xml" afterDir="false" />
@@ -77,9 +67,9 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalawithcats$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalawithcats$sources-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalawithcats$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalawithcats$sources-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/scalawithcats_2.12-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/scalawithcats_2.12-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/bgRun/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/bgRun/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
@@ -87,33 +77,19 @@
       <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/project/project/target/" />
-    <ignored path="$PROJECT_DIR$/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/SafeFolding.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,136 +100,28 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/PrintableLibrary.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/Main.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableTypeClass.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInterfaceObjects.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Printable.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/CatShowable.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/EqInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Equality.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Cat.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/ShowableInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableLibrary.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/ShowableInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/EqInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/Equality.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/BooleanInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Boolean.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Monoid.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Semigroup.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Set.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/SuperAdder.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/OrderMonoid.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/TreeFunctor.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/EnhancedPrintable.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/Codec.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/Box.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/PrintableContramap.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImap.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImapInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/TreeFunctorInstances.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/Monad.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/SafeFolding.scala" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="804" />
-  </component>
+  <component name="ProjectId" id="1OdVKhUbFac5L5ZgKy8MjiEhjIb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ScalaWithCats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaWithCats" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaWithCats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaWithCats" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaWithCats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaWithCats" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaWithCats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaWithCats" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaWithCats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaWithCats" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="scalawithcats" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaWithCats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaWithCats" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="scalawithcats" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562314873715" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -284,7 +152,7 @@
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="scalawithcats-build [file:/Users/fduroni/Work/ScalaWithCats/]" />
+                <option name="name" value="ScalaWithCats-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -294,9 +162,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3122569277000" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="2153524632" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3256423922" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
     </option>
     <option name="projectSyncType">
@@ -325,332 +192,28 @@
       <workItem from="1562404614307" duration="1694000" />
       <workItem from="1563376172347" duration="243000" />
       <workItem from="1563519466593" duration="879000" />
-      <workItem from="1563609872797" duration="763000" />
+      <workItem from="1563609872797" duration="2353000" />
+      <workItem from="1563879394703" duration="477000" />
+      <workItem from="1564037799230" duration="58000" />
+      <workItem from="1564307400225" duration="288000" />
+      <workItem from="1564307843809" duration="2008000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32957000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="804" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286517" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3286517" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.3286517" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22893259" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.0-sources.jar!/scala/App.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/Main.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInterfaceObjects.scala" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-kernel_2.12/srcs/cats-kernel_2.12-2.0.0-M4-sources.jar!/cats/kernel/Eq.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-2.0.0-M4-sources.jar!/cats/syntax/eq.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/Equality.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableSyntax.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableInstances.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/EqInstances.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/PrintableLibrary.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/printablelibrary/ShowableInstances.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/EqInstances.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/BooleanInstances.scala" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="151" column="7" selection-start-line="151" selection-start-column="7" selection-end-line="151" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/collection/GenSetLike.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Set.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="71" lean-forward="true" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Boolean.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-2.0.0-M4-sources.jar!/cats/syntax/semigroup.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-kernel_2.12/srcs/cats-kernel_2.12-2.0.0-M4-sources.jar!/cats/kernel/Monoid.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-877">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-2.0.0-M4-sources.jar!/cats/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="100" column="35" lean-forward="true" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/Option.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/SuperAdder.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/OrderMonoid.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-2.0.0-M4-sources.jar!/cats/Functor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-2.0.0-M4-sources.jar!/cats/Show.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableSyntax.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableLibrary.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-2.0.0-M4.jar!/cats/Functor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Monoid.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter2/Semigroup.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/EnhancedPrintable.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="74" lean-forward="true" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/PrintableContramap.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/Box.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/ShowableInstances.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/EnhancedPrintableInstances.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/TreeFunctorInstances.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/TreeFunctor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImapInstances.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/Codec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImap.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/Cat.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/Equality.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/PrintableInstances.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter1/Printable.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/Monad.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/SafeFolding.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

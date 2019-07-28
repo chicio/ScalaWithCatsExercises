@@ -4,7 +4,7 @@
 		module="scalawithcats$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190706111709"
+		publication="20190728115739"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

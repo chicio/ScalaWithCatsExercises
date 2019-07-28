@@ -1,7 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/fduroni/Work/ScalaWithCats/src/main/scala/it/chicio/scalawithcats/chapter3/CodecImap.scala:8:23: ambiguous implicit values:[0m
-[0m[[0m[31merror[0m] [0m[0m both value intCodec in object CodecImapInstances of type => it.chicio.scalawithcats.chapter3.Codec[Int][0m
-[0m[[0m[31merror[0m] [0m[0m and value booleanCodec in object CodecImapInstances of type => it.chicio.scalawithcats.chapter3.Codec[Boolean][0m
-[0m[[0m[31merror[0m] [0m[0m match expected type it.chicio.scalawithcats.chapter3.Codec[A][0m
-[0m[[0m[31merror[0m] [0m[0m  println(Codec.decode("1.2"))[0m
-[0m[[0m[31merror[0m] [0m[0m                      ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/fduroni/Work/ScalaWithCats/project/target/.sbt-compilation-infos/scalawithcats-compile/.sbt-idea-lock ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/fduroni/Work/ScalaWithCats/project/target/.sbt-compilation-infos/scalawithcats-compile/.sbt-idea-lock.[0m

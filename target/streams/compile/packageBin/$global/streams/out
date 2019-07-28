@@ -18,6 +18,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/ShowableInstances.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/ShowableInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/SafeFolding$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/SafeFolding$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter3/Tree$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Tree$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/SetInstances$$anon$2.class[0m
@@ -120,6 +122,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/PrintableSyntax$PrintableOps.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/OrderMonoid.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/OrderMonoid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/Monad.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/Monad.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/Order$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/Order$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/SetInstances.class[0m
@@ -136,12 +140,16 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/printablelibrary[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter3/PrintableContramap.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/PrintableContramap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/Boolean.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/Boolean.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter3/TreeFunctor$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/TreeFunctor$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/WriterFactorial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorial.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/Cat.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/Cat.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/printablelibrary/Main$.class[0m
@@ -150,6 +158,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Branch.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/WriterFactorialMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorialMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/WriterFactorialMain$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorialMain$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter3/Tree.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Tree.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/Monoid.class[0m
@@ -172,8 +184,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/SetInstances$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/SuperAdderMain$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/SuperAdderMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/SafeFolding.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/SafeFolding.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/SuperAdderMain$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/SuperAdderMain$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/WriterFactorialMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorialMain$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/EqInstances.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/EqInstances.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/BooleanInstances$$anon$4.class[0m
@@ -188,4 +204,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/SuperAdder.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/ShowableInstances$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/ShowableInstances$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/WriterFactorial$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorial$.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
