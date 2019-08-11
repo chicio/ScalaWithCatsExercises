@@ -22,6 +22,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/SafeFolding$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter3/Tree$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter3/Tree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/PostOrderCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/PostOrderCalculator.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/SetInstances$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/SetInstances$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/Monoid$.class[0m
@@ -194,12 +196,18 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/SuperAdderMain$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/HackingReaders.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/HackingReaders.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/PostOrderCalculatorApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/PostOrderCalculatorApp$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/SafeFolding.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/SafeFolding.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/SuperAdderMain$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter2/SuperAdderMain$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/WriterFactorialMain$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorialMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/PostOrderCalculatorApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/PostOrderCalculatorApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/PostOrderCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/PostOrderCalculator$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter1/EqInstances.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/EqInstances.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter2/BooleanInstances$$anon$4.class[0m
@@ -216,4 +224,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter1/ShowableInstances$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/WriterFactorial$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/WriterFactorial$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/chicio/scalawithcats/chapter4/PostOrderCalculatorApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fduroni/Work/ScalaWithCats/target/scala-2.12/classes/it/chicio/scalawithcats/chapter4/PostOrderCalculatorApp.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
