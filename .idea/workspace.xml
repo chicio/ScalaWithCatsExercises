@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7ba250-f2eb-478f-9a19-9b61fa4ed26f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter4/PostOrderCalculatorApp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ScalaWithCats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ScalaWithCats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter5/TransformerApp.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$89330fd26598c8e0591d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$89330fd26598c8e0591d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$89330fd26598c8e0591d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/scalawithcats_2.12-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/scalawithcats_2.12-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +166,11 @@
       <workItem from="1564836451721" duration="4025000" />
       <workItem from="1565003940828" duration="19000" />
       <workItem from="1565518626123" duration="193000" />
-      <workItem from="1565518833731" duration="5172000" />
+      <workItem from="1565518833731" duration="5340000" />
+      <workItem from="1565612098669" duration="6000" />
+      <workItem from="1566033871923" duration="236000" />
+      <workItem from="1566560124397" duration="6000" />
+      <workItem from="1566645033636" duration="3115000" />
     </task>
     <servers />
   </component>
