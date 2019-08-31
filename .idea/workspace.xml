@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a7ba250-f2eb-478f-9a19-9b61fa4ed26f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter5/TransformerApp.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter5/TransformerApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/it/chicio/scalawithcats/chapter5/TransformerApp.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +170,9 @@
       <workItem from="1565612098669" duration="6000" />
       <workItem from="1566033871923" duration="236000" />
       <workItem from="1566560124397" duration="6000" />
-      <workItem from="1566645033636" duration="3115000" />
+      <workItem from="1566645033636" duration="3414000" />
+      <workItem from="1566900347118" duration="2000" />
+      <workItem from="1567239565377" duration="24000" />
     </task>
     <servers />
   </component>

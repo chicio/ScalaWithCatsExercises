@@ -20,7 +20,7 @@ object Transformer {
     powerLevels.get(ally) match {
       case Some(avg) => EitherT.right(Future(avg))
       case None => EitherT.left(Future(s"$ally unreachable")) }
-  }]
+  }
 }
 
 object TransformerApp extends App {
